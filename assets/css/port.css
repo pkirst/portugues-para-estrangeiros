@@ -1,0 +1,78 @@
+body{
+  font-size:20px;
+}
+
+/*@font-face {
+    font-family: 'sue_ellen_francisco_regular';
+    src: url('assets/fontes/sueellenfrancisco-webfont.woff2') format('woff2'),
+         url('assets/fontes/sueellenfrancisco-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}*/
+
+.center-menu{
+  text-align:center;
+  padding:20px;
+  font-family: 'Sue Ellen Francisco', cursive;
+  font-size:26px;
+}
+
+#espace-one{
+  background-color:#FFD700;
+  height:auto;
+}
+
+#espace-two{
+  background-color:#ffffff;
+  height:auto;
+}
+
+#quadro-iniciar{
+  background-color:#0000ff;
+  height:200px;
+}
+
+.section-start{
+  text-align:center;
+  font-size:10px;
+  margin-top:100px;
+  font-family: 'Sue Ellen Francisco', cursive;
+  font-size:30px;
+}
+
+.section-start a{
+  color:#000;
+  text-decoration::none;
+  border:2px dashed #000;
+  padding:30px;
+  font:12px;
+}
+
+.section-start a:hover{
+  text-decoration:none;
+  color:#000;
+}
+
+.led{
+  font-family: 'Sue Ellen Francisco', cursive;
+}
+
+.txt-num{
+  padding-left:25px;
+}
+
+.txt-explica{
+    padding:30px;
+}
+
+.txt-one, .txt-two{
+    font-family: 'Sue Ellen Francisco', cursive;
+    padding-left:70px;
+    padding-top:50px;
+    text-transform:uppercase;
+}
+
+.led{
+  padding-left:70px;
+}
