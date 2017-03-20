@@ -33,10 +33,95 @@ body{
   height:200px;
 }
 
+#quadro-start2{
+  background-color:#228B22;
+  height:200px;
+}
+
+#quadro-2{
+  background-color:#fff;
+  height:200px;
+}
+
+#quadro-start3{
+  background-color:#000000;
+  height:200px;
+}
+
+#quadro-3{
+  background-color:#FFA500;
+  height:200px;
+}
+
+#quadro-start3{
+  background-color:#FF8C00;
+  height:200px;
+}
+
+#quadro-3{
+  background-color:#fff;
+  height:200px;
+}
+
+#quadro-start4{
+  background-color:#FFA500;
+  height:200px;
+}
+
+#quadro-5{
+  background-color:#fff;
+  height:200px;
+}
+
+#quadro-start5{
+  background-color:#FF7F50;
+  height:200px;
+}
+
+#quadro-6{
+  background-color:#fff;
+  height:200px;
+}
+
+#quadro-start6{
+  background-color:#191970;
+  height:200px;
+}
+
+#quadro-7{
+  background-color:#fff;
+  height:200px;
+}
+
+#quadro-start7{
+  background-color:#008B8B;
+  height:200px;
+}
+
+#quadro-8{
+  background-color:#fff;
+  height:200px;
+}
+
+#quadro-start8{
+  background-color:#008B8B;
+  height:200px;
+}
+
+#gostou{
+  background-color:#FFD700;
+  height:auto;
+}
+
+#contato{
+  background-color:#87CEFA;
+  height:auto;
+}
+
 .section-start{
   text-align:center;
   font-size:10px;
-  margin-top:100px;
+  margin-top:80px;
   font-family: 'Sue Ellen Francisco', cursive;
   font-size:30px;
 }
@@ -59,12 +144,18 @@ body{
 }
 
 .txt-num{
+  margin-top:20px;
   padding-left:25px;
+  color:#000;
 }
 
-.txt-explica{
-    padding:30px;
+p{
+  color:#000;
 }
+
+/*.txt-explica{
+    padding:30px;
+}*/
 
 .txt-one, .txt-two{
     font-family: 'Sue Ellen Francisco', cursive;
