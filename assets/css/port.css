@@ -1,5 +1,6 @@
 body{
   font-size:20px;
+  background-color:#DCDCDC;
 }
 
 /*@font-face {
@@ -10,6 +11,10 @@ body{
     font-style: normal;
 
 }*/
+
+#conteudo{
+  padding:23px;
+}
 
 .center-menu{
   text-align:center;
@@ -31,6 +36,10 @@ body{
 #quadro-iniciar{
   background-color:#0000ff;
   height:200px;
+}
+
+#quadro-explicacao{
+  background:#fff;
 }
 
 #quadro-start2{
@@ -108,14 +117,27 @@ body{
   height:200px;
 }
 
-#gostou{
+#sobre{
   background-color:#FFD700;
-  height:auto;
+  height:500px;
 }
 
 #contato{
-  background-color:#87CEFA;
-  height:auto;
+  background-color:#696969;
+  height:550px;
+}
+
+#wp-rodape{
+  background-color:#fff;
+  width:100%;
+  height:80px;
+}
+
+#btn-volta{
+  position:fixed;
+  bottom:30px;
+  right:10px;
+  cursor:pointer;
 }
 
 .section-start{
